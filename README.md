@@ -1,17 +1,17 @@
-# numbers2turkish
+# turkishify-numbers
 
 Converts numbers to their Turkish equivalents
 
 ## Install
 
 ```bash
-$ npm install numbers2turkish
+$ npm install turkishify-numbers
 ```
 
 ## Usage
 
 ```js
-const convert = require("numbers2turkish");
+const convert = require("turkishify-numbers");
 
 convert(1000200014);
 // => "Bir Milyar İki Yüz Bin On Dört"
