@@ -1,0 +1,23 @@
+{
+	"name": "turkishify-numbers",
+	"version": "1.0.0",
+	"description": "Converts numbers to their Turkish equivalents",
+	"main": "index.js",
+	"keywords": [
+		"turkish",
+		"numbers",
+		"convert",
+		"word",
+		"türkçe",
+		"sayılar",
+		"yazı",
+		"çeviri"
+	],
+	"scripts": {},
+	"author": "Ali Alperen Arıkan",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/alperenArikan/turkishify-numbers.git"
+	},
+	"license": "MIT"
+}
