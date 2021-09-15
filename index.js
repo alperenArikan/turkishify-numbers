@@ -50,6 +50,9 @@ const convert = (number) => {
 	if (typeof number === "number") {
 		number = String(parseInt(number));
 	}
+	if (parseInt(number) === 0 || parseInt(number) === "-0") {
+		return "Sıfır";
+	}
 
 	let symbol = "";
 	if (number.charAt(0) === "-") {
